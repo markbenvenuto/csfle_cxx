@@ -1,1 +1,1 @@
-{ "properties" : { "encryptedField" : { "encrypt" : { "keyId" : [ { "$binary" : "tRxYSXIBTqO7jn1yvLjKMA==", "$type" : "04" } ], "bsonType" : "string", "algorithm" : "AEAD_AES_256_CBC_HMAC_SHA_512-Deterministic" } } }, "bsonType" : "object" }
+{ "properties" : { "encryptedField" : { "encrypt" : { "keyId" : [ { "$binary" : "mLRbiNGfRhyZ7kqtTnOXGQ==", "$type" : "04" } ], "bsonType" : "string", "algorithm" : "AEAD_AES_256_CBC_HMAC_SHA_512-Deterministic" } } }, "bsonType" : "object" }
